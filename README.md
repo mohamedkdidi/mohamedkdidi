@@ -46,29 +46,51 @@ if '__repo__' == '__helpful__':
 <br>
 <br>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/krushnatkhawale/github-readme-stats)*
+My name is Mohamed Kdidi and I'm a software developer/DevOps engineer. I'm from Tunsia, living in Canada and currently working at Fujitsu. You can find me on:
 
+<!--Social Channel-->
+<a href="https://www.linkedin.com/in/mohamedkdidi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;ogo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+<a href="https://dev.to/mohamedkdidi"><img src="https://img.shields.io/badge/dev.to-%231572B6.svg?&amp;logo=dev%20to&amp;logoColor=white&color=ff3377" alt="Dev to"></a>
+<a href="https://mohamedkdidi.github.io"><img src="https://img.shields.io/badge/web%20site-mohamedkdidi.github.io-red&color=8bc34a" alt="Dev to"></a>
 <br>
-<img src="https://img.shields.io/github/stars/mohamedkdidi/multistage-azure-devops?style=social">
+<!--<img src="https://img.shields.io/github/stars/mohamedkdidi/multistage-azure-devops?style=social">-->
 <br>
 
 <!-- Language and tools badge-->
 
-### **Languages & Tools:**
+## Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,kubernetes,azure,py,php,laravel,mysql,js,nodejs,angular,ts,react,redux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,kubernetes,azure,py,php,laravel,mysql,js,nodejs,angular,ts,react,redux)](https://skillicons.dev)
 
-<!-- Github Stats -->
-![Mohamed Kdidi's github stats](https://github-readme-stats.vercel.app/api?username=mohamedkdidi&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkdidi&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedkdidi&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+## GitHub Stats:
 
-<!--Social Channel-->
-<a href="https://www.linkedin.com/in/mohamedkdidi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;ogo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
-<a href="https://dev.to/mohamedkdidi"><img src="https://img.shields.io/badge/dev.to-%231572B6.svg?&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a>
-<a href="mohamedkdidi.github.io"><img src="https://img.shields.io/badge/web%20site-mohamedkdidi.github.io-red" alt="Dev to"></a>
+<p align="center">
+<a href="https://github.com/mohamedkdidi/mohamedkdidi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkdidi&langs_count=3&hide=css,html" />
+</a>
+<a href="https://github.com/mohamedkdidi/mohamedkdidi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkdidi&show_icons=true&line_height=27&count_private=true&layout=compact" alt="Mohamed's GitHub Stats" />
+</a>
+
+<a href="https://github.com/mohamedkdidi/terraform-github-actions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedkdidi&repo=terraform-github-actions&layout=compact" />
+</a>
+
+
+<a href="https://github.com/mohamedkdidi/microservices-architecture-docker-kubernetes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedkdidi&repo=microservices-architecture-docker-kubernetes&layout=compact" /></a>  
+</p> 
+
+##
+
+<p align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedkdidi&theme=monokai&margin-w=35&margin-h=25&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p> 
 
 <img  src="image.png">
-  
+ 
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 
